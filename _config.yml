@@ -1,9 +1,8 @@
 # Basic
-title: OneV's Den
-subtitle: 上善若水，人淡如菊
-welcome_message: <a href="https://objccn.io/products/">我组织的 ObjC 中国与 objc.io 合作发布了一系列 iOS/Swift 相关图书，欢迎访问了解更多</a>
-description: 嗨，我是王巍 (@onevcat)，一名 iOS 开发者。
-creator: <a href="https://onev.cat">@onevcat</a>
+title: ThickFive's Den
+subtitle: 也许这就是人生吧
+welcome_message: 欢迎来到我的秘密星球
+description: 我是 ThickFive, 一名 Swift && JavaScript 程序员。
 
 url: "https://onevcat.com"
 
@@ -19,10 +18,6 @@ blog_button:
     title: 博客
     description: 访问博客
 
-nav:
-    - {title: 简历, description: 我的简历, url: '//onev.cat'}
-    - {title: 工具, description: 我所使用的 app 们, url: '/apps'}
-
 # Pagination
 plugins: [jekyll-paginate]
 paginate: 20
@@ -30,14 +25,12 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: onevcat
+    disqus: thickfive
     # duoshuo:
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    mail: onev@onevcat.com
+    github: thickfive
+    mail: thickfive@live.com
 
 # Google Analytics
 ga:
